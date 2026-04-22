@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <RootNamespace>Rename_files_to_parent_folder</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>images.ico</ApplicationIcon>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>D:\repertoire\projet\c#\Pier-Alexandre_key.pfx</AssemblyOriginatorKeyFile>
+    <DelaySign>True</DelaySign>
+    <Title>Rename files to parent folder</Title>
+    <Authors>Pier-Alexandre Yale</Authors>
+    <Copyright>Pier-Alexandre Yale under MIT</Copyright>
+    <Description>Rename files by their current folder</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="images.ico" />
+  </ItemGroup>
+
+</Project>

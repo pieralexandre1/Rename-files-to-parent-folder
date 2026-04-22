@@ -1,0 +1,5 @@
+D:\repertoire\projet\c#\RenameToParentFolder\publish_portable\Rename files to parent folder.exe
+D:\repertoire\projet\c#\RenameToParentFolder\publish_portable\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder\publish_portable\Rename files to parent folder.deps.json
+D:\repertoire\projet\c#\RenameToParentFolder\publish_portable\Rename files to parent folder.runtimeconfig.json
+D:\repertoire\projet\c#\RenameToParentFolder\publish_portable\Rename files to parent folder.pdb

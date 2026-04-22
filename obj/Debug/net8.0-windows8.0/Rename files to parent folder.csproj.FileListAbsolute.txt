@@ -1,0 +1,36 @@
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.exe
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.deps.json
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.runtimeconfig.json
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.pdb
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.ConfirmationForm.resources
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.CustomMessageBox.resources
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.Main.resources
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.csproj.GenerateResource.cache
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.GeneratedMSBuildEditorConfig.editorconfig
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.AssemblyInfoInputs.cache
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.AssemblyInfo.cs
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.csproj.CoreCompileInputs.cache
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\refint\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.pdb
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.genruntimeconfig.cache
+D:\repertoire\projet\c#\RenameToParentFolder2\Rename files to parent folder\obj\Debug\net8.0-windows8.0\ref\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.exe
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.deps.json
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.runtimeconfig.json
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\bin\Debug\net8.0-windows8.0\Rename files to parent folder.pdb
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.ConfirmationForm.resources
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.CustomMessageBox.resources
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename_files_to_parent_folder.Main.resources
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.csproj.GenerateResource.cache
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.GeneratedMSBuildEditorConfig.editorconfig
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.AssemblyInfoInputs.cache
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.AssemblyInfo.cs
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.csproj.CoreCompileInputs.cache
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\refint\Rename files to parent folder.dll
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.pdb
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\Rename files to parent folder.genruntimeconfig.cache
+D:\repertoire\projet\c#\RenameToParentFolder\Rename files to parent folder\obj\Debug\net8.0-windows8.0\ref\Rename files to parent folder.dll
