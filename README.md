@@ -10,6 +10,8 @@ You got a few options like
 -Append folder: Add each folder name from the top until the current folder that the files are in.
 -Direct parent folder: Add only the folder name that the files are currently in.
 
+Undo button will only let you reverse the last operation; be careful not to activate consecutive rename if you are not satisfied with the result.
+
 Work with long path.
 
 Work on windows 10 on my end, haven't try other windows version or os.
