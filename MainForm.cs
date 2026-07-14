@@ -148,7 +148,7 @@ namespace Rename_files_to_parent_folder
                 try
                 {
                     // @"\\?\"  -> Needed to bypass the maximum path lenght of 260 characters, its the long path support
-                    File.Move(@"\\?\" + undoelement.getNewFileName(), @"\\?\" + undoelement.getOldFileName());
+                    File.Move(undoelement.getNewFileName(), @"\\?\" + undoelement.getOldFileName());
                 }
                 catch (Exception ex)
                 {
